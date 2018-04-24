@@ -1,0 +1,53 @@
+﻿id,State,stateabbr,healthcare,poverty
+1,Alabama,AL,13.9,27.7
+2,Alaska,AK,15,15.8
+3,Arizona,AZ,14.4,25.6
+4,Arkansas,AR,16.3,26.4
+5,California,CA,14.8,22.7
+6,Colorado,CO,12.8,15.4
+7,Connecticut,CT,8.7,14.9
+8,Delaware,DE,8.7,17.7
+9,District of Columbia,DC,8.3,26
+10,Florida,FL,17.6,23.8
+11,Georgia,GA,20.9,26.3
+12,Hawaii,HI,8.1,14.7
+13,Idaho,ID,16.5,18.8
+14,Illinois,IL,11.9,20.2
+15,Indiana,IN,14.8,21.5
+16,Iowa,IA,7.7,15.3
+17,Kansas,KS,14.5,17.7
+18,Kentucky,KY,10,26.2
+19,Louisiana,LA,18.7,27.9
+20,Maine,ME,11,19.1
+21,Maryland,MD,9.2,13
+22,Massachusetts,MA,4.6,15.2
+23,Michigan,MI,10.3,22.6
+24,Minnesota,MN,7.3,14.9
+25,Mississippi,MS,18.8,29.4
+26,Missouri,MO,12.9,21.1
+27,Montana,MT,12.9,18.5
+28,Nebraska,NE,12.4,16.2
+29,Nevada,NV,17.1,22
+30,New Hampshire,NH,11.4,13
+31,New Jersey,NJ,12.5,15.9
+32,New Mexico,NM,15.4,29.5
+33,New York,NY,12.3,22.6
+34,North Carolina,NC,16.1,24.3
+35,North Dakota,ND,8.8,14.8
+36,Ohio,OH,10.2,22.9
+37,Oklahoma,OK,13.9,22.4
+38,Oregon,OR,11,21.6
+39,Pennsylvania,PA,10.1,19.4
+40,Rhode Island,RI,8,19.8
+41,South Carolina,SC,17.1,27.1
+42,South Dakota,SD,9.9,18
+43,Tennessee,TN,14.2,26.2
+44,Texas,TX,24.9,24.6
+45,Utah,UT,13.9,13.3
+46,Vermont,VT,6.7,15.8
+47,Virginia,VA,13.1,15.8
+48,Washington,WA,10.7,17.5
+49,West Virginia,WV,10.1,24.7
+50,Wisconsin,WI,8.5,18.4
+51,Wyoming,WY,15.1,12.8
+52,Puerto Rico,GU,24.8,58.4
